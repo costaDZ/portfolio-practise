@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     --scrollbar-thump-color: #6b6b6b;
     --scrollbar-track-color: #383838;
 }
-    *{
+    * {
         padding: 0;
         margin: 0;
         box-sizing: border-box;
