@@ -26,7 +26,7 @@ const TitleStyled = styled.div`
                 border-radius: 20px;
                 left: 4px;
                 bottom: 0;
-                width: 25%;
+                width: 15%;
                 height: .1em;
                 background-color: var(--background-light-color-2);
         }
@@ -50,7 +50,6 @@ const TitleStyled = styled.div`
             z-index: -1;
         }
     }
-
 `
 
-export default Title
+export default Title;

@@ -5,6 +5,11 @@ import ImageSection from "./ImageSection";
 import PrimaryBtn from "./PrimaryBtn";
 import ServicesSection from "./ServicesSection";
 import ReviewsSetion from "./ReviewsSection";
+import ContactItem from "./ContactItem";
+import PrimaryButton from "./PrimaryBtn";
+
+
+
 
 
 
@@ -18,5 +23,7 @@ export {
     ImageSection,
     PrimaryBtn,
     ServicesSection,
-    ReviewsSetion
+    ReviewsSetion,
+    ContactItem,
+    PrimaryButton
 };
