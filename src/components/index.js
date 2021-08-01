@@ -7,12 +7,10 @@ import ServicesSection from "./ServicesSection";
 import ReviewsSetion from "./ReviewsSection";
 import ContactItem from "./ContactItem";
 import PrimaryButton from "./PrimaryBtn";
-
-
-
-
-
-
+import Skills from "./Skills";
+import Resume from "./Resume";
+import Menu from "./Menu";
+import Button from "./Button";
 
 
 
@@ -25,5 +23,9 @@ export {
     ServicesSection,
     ReviewsSetion,
     ContactItem,
-    PrimaryButton
+    PrimaryButton,
+    Skills,
+    Resume,
+    Menu,
+    Button
 };

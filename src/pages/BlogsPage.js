@@ -73,4 +73,4 @@ const BlogsStyled = styled.div`
     }
 `;
 
-export default BlogsPage
+export default BlogsPage;

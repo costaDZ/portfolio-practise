@@ -9,7 +9,6 @@ import EmailIcon from '@material-ui/icons/Email';
 import LocationOnIcon from '@material-ui/icons/LocationOn';
 
 function Contact() {
-
     const phone = <PhoneIcon />
     const email = <EmailIcon />
     const location = <LocationOnIcon />
@@ -56,6 +55,18 @@ function Contact() {
 }
 
 export default Contact;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 const ContactStyled = styled.section`
